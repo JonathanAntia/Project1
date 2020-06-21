@@ -32,7 +32,11 @@ We will add other criteria as time for the project permits:
 Datasets to Be Used:
 
 ❏ HCAD System: https://pdata.hcad.org/download/2019.html
+
 ❏ School Ratings: https://texasschoolguide.org/school-rankings/
+
 ❏ National Flood Data: http://nationalflooddata.com/flood/floodapi/
+
 ❏ Places:https://cloud.google.com/maps-platform/
+
 ❏ Crime: https://www.programmableweb.com/api/your-mapper-crimescore
